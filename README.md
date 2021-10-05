@@ -11,3 +11,10 @@ M.Sc. Cybersecurity Student at [Sapienza University](https://www.uniroma1.it/). 
 <!--
 [![edoardottt's GitHub stats](https://github-readme-stats.vercel.app/api?username=edoardottt)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+<a href="https://github.com/edoardottt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=edoardottt&count_private=true&show_icons=true&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/edoardottt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edoardottt&layout=compact&theme=chartreuse-dark&langs_count=8" />
+</a>
