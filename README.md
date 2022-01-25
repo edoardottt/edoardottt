@@ -9,9 +9,6 @@ M.Sc. Cybersecurity Student at [Sapienza University](https://www.uniroma1.it/). 
   <a href="https://www.linkedin.com/in/edoardoottavianelli/" target="_blank">LinkedIn</a> •
   <a href="https://www.youtube.com/channel/UCBoJMSbkCGdardyMyuYNyHA" target="_blank">YouTube</a>
 </p>
-<!--
-[![edoardottt's GitHub stats](https://github-readme-stats.vercel.app/api?username=edoardottt)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 <!--
 <a href="https://github.com/edoardottt">
