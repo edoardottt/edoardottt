@@ -10,7 +10,9 @@ Cybersecurity M.Sc. Student at [Sapienza University](https://www.uniroma1.it/en/
   <a href="https://www.youtube.com/channel/UCBoJMSbkCGdardyMyuYNyHA" target="_blank">YouTube</a>
 </p>
 
+<!--
 <p align="center">
 <img height="207em" src="https://github-readme-stats.vercel.app/api?username=edoardottt&show_icons=true&count_private=true&line_height=28&include_all_commits=true&theme=chartreuse-light" align="center"/>
 <img height="207em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edoardottt&layout=compact&theme=chartreuse-light&langs_count=10" align="center"/>
 </p>
+-->
