@@ -1,4 +1,5 @@
-Cybersecurity M.Sc. Student at [Sapienza University](https://www.uniroma1.it/en/). Passionate about Nature⛰️, Computing🖥️ and the whole sphere of Science🔭  
+Cybersecurity M.Sc. Student at [Sapienza University](https://www.uniroma1.it/en/). Passionate about Nature⛰️, Computing🖥️ and Cooking🍝  
+
 <p align="center">
   <a href="https://www.edoardoottavianelli.it" target="_blank">Personal Website</a> •
   <a href="https://www.linkedin.com/in/edoardoottavianelli/" target="_blank">LinkedIn</a> •
