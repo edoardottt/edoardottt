@@ -8,7 +8,7 @@ Cybersecurity M.Sc. Student at <a href="https://www.uniroma1.it/en/">Sapienza Un
   <a href="https://bugcrowd.com/edoardottt" target="_blank">Bugcrowd</a> •
   <a href="https://twitter.com/edoardottt2" target="_blank">Twitter</a> •
   <a href="https://instagram.com/edoardottt" target="_blank">Instagram</a> •
-  <a href="https://www.youtube.com/@edoardottt" target="_blank">YouTube</a>
+  <a href="https://www.youtube.com/@edoardottt" target="_blank">YouTube</a> •
   <a href="https://tryhackme.com/p/edoardottt" target="_blank">TryHackMe</a> •
   <a href="https://scholar.google.com/citations?user=Lz9bArIAAAAJ" target="_blank">Google Scholar</a> •
 </p>
