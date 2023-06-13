@@ -8,9 +8,9 @@ Cybersecurity M.Sc. at <a href="https://www.uniroma1.it/en/">Sapienza University
   <a href="https://bugcrowd.com/edoardottt" target="_blank">Bugcrowd</a> •
   <a href="https://twitter.com/edoardottt2" target="_blank">Twitter</a> •
   <a href="https://www.youtube.com/@edoardottt" target="_blank">YouTube</a> •
+  <a href="https://www.researchgate.net/profile/Edoardo-Ottavianelli" target="_blank">Research Gate</a> •
   <a href="https://instagram.com/edoardottt" target="_blank">Instagram</a> •
-  <a href="https://tryhackme.com/p/edoardottt" target="_blank">TryHackMe</a> •
-  <a href="https://www.researchgate.net/profile/Edoardo-Ottavianelli" target="_blank">Research Gate</a>
+  <a href="https://tryhackme.com/p/edoardottt" target="_blank">TryHackMe</a>
 </p>
 
 <!--
