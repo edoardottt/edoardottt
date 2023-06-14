@@ -1,5 +1,5 @@
 <p align="center">
-Cybersecurity M.Sc. at <a href="https://www.uniroma1.it/en/">Sapienza University</a>. Passionate about Nature⛰️, Computing🖥️ and Cooking🍝  
+Cybersecurity M.Sc., Security Researcher. Passionate about Nature⛰️, Computing🖥️ and Cooking🍝  
 </p>
 
 <p align="center">
