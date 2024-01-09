@@ -3,6 +3,10 @@ Cybersecurity M.Sc., Security Researcher. Passionate about Nature⛰️, Computi
 </p>
 
 <p align="center">
+  • <a href="https://edoardottt.substack.com/" target="_blank">Open Source Gems Newsletter</a> •
+</p>
+
+<p align="center">
   <a href="https://www.edoardoottavianelli.it" target="_blank">Personal Website</a> •
   <a href="https://www.linkedin.com/in/edoardoottavianelli/" target="_blank">LinkedIn</a> •
   <a href="https://bugcrowd.com/edoardottt" target="_blank">Bugcrowd</a> •
